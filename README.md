@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# This demo project leverages best practices on => React - Typescript - Redux - Redux Toolkit Query and Tailwind
+for practice and demonstartion purposes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🌟 if you found it helpful 😁
 
 ## Available Scripts
 
