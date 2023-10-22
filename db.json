@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Christie Jacobi",
+      "id": 2
+    },
+    {
+      "name": "Winifred Ondricka",
+      "id": 3
+    },
+    {
+      "name": "Blake Spinka",
+      "id": 4
+    },
+    {
+      "name": "Virgil Goodwin",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Oriental Rubber Keyboard",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Frozen Towels",
+      "id": 2
+    },
+    {
+      "userId": 2,
+      "title": "Ergonomic Soft Ball",
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "title": "Sleek Soft Computer",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Fresh Pants",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "title": "Generic Rubber Tuna",
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "title": "Sleek Metal Sausages",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Oriental Granite Towels",
+      "id": 12
+    },
+    {
+      "userId": 4,
+      "title": "Licensed Metal Salad",
+      "id": 13
+    },
+    {
+      "userId": 4,
+      "title": "Luxurious Steel Chips",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Practical Plastic Car",
+      "id": 15
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2327293275930624",
+      "id": 4
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5169583633727488",
+      "id": 8
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1953569573961728",
+      "id": 10
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4272348324691968",
+      "id": 11
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4038226784288768",
+      "id": 15
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7063830683189248",
+      "id": 16
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6045966167703552",
+      "id": 18
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2421990057050112",
+      "id": 19
+    }
+  ]
+}

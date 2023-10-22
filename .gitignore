@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+#indexing
+/src/store/index.ts
+/src/components/UsersList.tsx
+
 # testing
 /coverage
 
